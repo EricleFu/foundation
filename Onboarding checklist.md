@@ -1,4 +1,4 @@
-Welcome to CNCF Project Onboarding!
+# Onboarding Checklist
 This is an issue created to help onboard your project into the CNCF after the TOC has voted to accept your project.
 We would like to complete onboarding within one month of acceptance.
 
